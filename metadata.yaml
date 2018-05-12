@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '34175'
     url: http://www.gutenberg.org/2009/agents/34175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33969#New-Hire
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-09-23'
 gutenberg_type: Text
